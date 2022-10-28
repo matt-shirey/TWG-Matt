@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hi. I'm Matt.  I currently work at [Midwestern State University](https://msutexas.edu) as the University Webmaster.
+Hi. I'm Matt.
+<!-- Hi. I'm Matt.  I currently work at [Midwestern State University](https://msutexas.edu) as the University Webmaster. -->
 <!--
 **TWG-Matt/TWG-Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

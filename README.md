@@ -13,7 +13,7 @@ I'm a full-time developer at [Hannon Hill](https://hannonhill.com) and run a sma
   - [ThatWebGuy](https://thatwebguy.xyz)
   - [hi@thatwebguy](mailto:hi@thatwebguy.xyz)
 
-I work full-time for [Hannon Hill](https://hannonhill.com) as a Professional Services Web Developer.
+<!-- I work full-time for [Hannon Hill](https://hannonhill.com) as a Professional Services Web Developer. -->
 <!-- Hi. I'm Matt.  I currently work at [Midwestern State University](https://msutexas.edu) as the University Webmaster. -->
 <!--
 **TWG-Matt/TWG-Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,18 @@
 ### Hi. I'm Matt. 👋
 
+I'm a full-time developer at [Hannon Hill](https://hannonhill.com) and run a small development shop called [ThatWebGuy](https://thatwebguy.xyz).
+
+- 🔭 I’m currently working on ...
+  - CascadeCMS API Documentation Site
+  - Redesign of ThatWebGuy
+  - Creating an internal invoicing & ticket system for ThatWebGuy.
+
+<!-- - 🌱 I’m currently learning ... -->
+
+- 📫 How to reach me: ...
+  - [ThatWebGuy](https://thatwebguy.xyz)
+  - [hi@thatwebguy](mailto:matt@thatwebguy.xyz)
+
 I work full-time for [Hannon Hill](https://hannonhill.com) as a Professional Services Web Developer.
 <!-- Hi. I'm Matt.  I currently work at [Midwestern State University](https://msutexas.edu) as the University Webmaster. -->
 <!--
